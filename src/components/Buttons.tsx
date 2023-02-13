@@ -1,13 +1,13 @@
 import React from 'react';
 import CheckIcon2 from './Icones2';
 
-function Button({ className, href, text, children }) {
-  return (
-    <button className={`${className} py-3 px-10`}>
-      <a href="mailto:contact@contact.be">Got a project</a>
-    </button>
-  )
-}
+// function Button({ className, href, text, children }) {
+// return (
+//   <button className={`${className} py-3 px-10`}>
+//     <a href="mailto:contact@contact.be">Got a project</a>
+//   </button>
+// )
+// }
 
 const Buttons: React.FC = () => {
   return (

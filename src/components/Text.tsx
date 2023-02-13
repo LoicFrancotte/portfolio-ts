@@ -21,9 +21,9 @@ const Text: React.FC = () => {
         to tackle new challenges.
       </p>
       <ul className='mb-4'>
-        <li><CheckIcon /> Product must be authentic</li>
-        <li><CheckIcon /> Solve pain points elegantly</li>
-        <li><CheckIcon /> User testing, feedback and validation</li>
+        <li><CheckIcon iconName="check" /> Product must be authentic</li>
+        <li><CheckIcon iconName="check" /> Solve pain points elegantly</li>
+        <li><CheckIcon iconName="check" /> User testing, feedback and validation</li>
       </ul>
     </div>
   );
