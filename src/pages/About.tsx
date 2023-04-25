@@ -12,7 +12,7 @@ const About: React.FC = () => {
           <Logo />
         </div>
         <div className=' md:col-start-3 md:flex xl:justify-center xl:ml-36 md:mt-1 mt-1'>
-          <Navigation />
+          <Navigation homeLink="/home" aboutLink="/about" />
         </div>
       </div>
       <div className=' xl:grid-cols-2 grid'>
@@ -28,3 +28,4 @@ const About: React.FC = () => {
 };
 
 export default About;
+

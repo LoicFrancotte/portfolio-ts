@@ -16,7 +16,7 @@ const Text: React.FC = () => {
       </div>
       <p className='mb-5'>
         Hello! I'm Loïc francotte, a <strong>Junior Web Developer </strong>
-        passionate about technology and design, striving to
+        passionate about technology, striving to
         create user-friendly websites and constantly learning
         to tackle new challenges.
       </p>
